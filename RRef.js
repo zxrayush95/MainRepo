@@ -1,5 +1,5 @@
 {
-  "version": "5.8",
-  "url": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/libReseller-Admin-Wh.so",
-  "libLink": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/libReseller-Admin-Wh.so"
+  "version": "5.9",
+  "url": "https://github.com/zxrayush95/MainRepo/raw/refs/heads/main/libNebulaLoader-v4.so",
+  "libLink": "https://github.com/zxrayush95/MainRepo/raw/refs/heads/main/libNebulaLoader-v4.so"
 }
