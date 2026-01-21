@@ -1,5 +1,5 @@
 {
   "version": "5.7",
-  "url": "https://github.com/zxrayush95/MainRepo/raw/refs/heads/main/libNEBULA-Loaderv3.so",
-  "libLink": "https://github.com/zxrayush95/MainRepo/raw/refs/heads/main/libNEBULA-Loaderv3.so"
+  "url": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/libReseller-Admin-Wh.so",
+  "libLink": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/libReseller-Admin-Wh.so"
 }
