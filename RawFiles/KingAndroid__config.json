@@ -1,10 +1,10 @@
 {
-  "continue": true,
+  "continue": false,
   "Box1": false,
   "Box2": true,
   "Box3": false,
   "Box4": false,
   "VehicleSpeed": true,
-  "info": "KingAndroid",
-  "Text2": "Login Done!"
+  "info": "soon",
+  "Text2": "banned server"
 }
