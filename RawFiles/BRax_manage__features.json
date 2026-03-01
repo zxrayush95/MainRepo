@@ -9,6 +9,7 @@
     "1": {
       "info": "Bullet-track enabled",
       "bools": {
+        "Draw.MenuSelection": true,
         "silent": true,
         "NormalBT": true,
         "AimTrack": false,
